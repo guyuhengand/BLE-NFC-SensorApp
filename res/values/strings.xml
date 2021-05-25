@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IOEL Sensor App</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="tab_text_1">BLE</string>
+    <string name="tab_text_2">NFC</string>
+    <string name="ecg_data">ECG Data</string>
+</resources>
